@@ -1,0 +1,45 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,rect_png,circle_png,4_png,point_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/rect.png",
+			"type": "image",
+			"name": "rect_png"
+		},
+		{
+			"url": "assets/circle.png",
+			"type": "image",
+			"name": "circle_png"
+		},
+		{
+			"url": "assets/4.png",
+			"type": "image",
+			"name": "4_png"
+		},
+		{
+			"url": "assets/point.png",
+			"type": "image",
+			"name": "point_png"
+		}
+	]
+}
